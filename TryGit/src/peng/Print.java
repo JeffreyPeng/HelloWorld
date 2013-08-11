@@ -25,8 +25,7 @@ public class Print {
 		return System.out.printf(format, args);
 	}
 	
-	//������飿
-	//�������ָ���
+	// whats the orginal comments?
 	public static void main(String...args) {
 		String[] ss = {"aaa","bbb","ccc",};
 		Object o = ss;
